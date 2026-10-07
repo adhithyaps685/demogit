@@ -1,2 +1,2 @@
 print("heloo")
-name="adithya ps"
+name="adithya. ps"
